@@ -1,4 +1,4 @@
-# Git Experimentation
+# Git Experiments
 
 ## Revert
 
