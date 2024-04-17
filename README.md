@@ -1,5 +1,5 @@
 # Git Experiments
 
-## Revert
+## Reverting
 
 ## Keep
